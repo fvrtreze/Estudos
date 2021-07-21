@@ -1,0 +1,36 @@
+Pegar uma rotina e fazer um algoritmo:
+
+    Ir comer um lanchão top:
+    escolher o local;
+    se for um local carro 
+        não ir;
+    se não 
+        só vamos;
+    combinar um dia com os amigos;
+    se todos concordarem
+        marcar;
+    se não concordarem 
+        marcar para outro dia;
+    aguardar o dia;
+    se acontecer algum imprevisto
+        remarcar o dia;
+    se não
+        só vamos;
+    ir até o local;
+    ver o menu de lanches e bebida;
+    se encontrar o lanche e bebida desejados
+        fazer o pedido;
+    se não 
+        ver outra pagina;
+    conversar com os amigos;
+    se chegar o lanche
+        comer;
+    se não 
+        pede outra bebida e continuar conversando;
+    verifica se estão todos satisfeitos;
+    se sim
+        pagar a conta;
+    se não  
+        continuar no local;
+    ir embora para casa;
+    

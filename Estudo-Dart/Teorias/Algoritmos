@@ -1,0 +1,36 @@
+
+ O que é?
+ Algo que você vê o tempo inteiro. Uma receito de bolo. um algoritmo funcionar, não significa que ele esteja certo.
+    
+    (Algoritmo de atravessar a rua)
+    posiciona-se na faixa;
+    se o sinal estiver verde
+        atravessar;
+    se o sinal estiver vermelho
+        não atravessar;
+    se o sinal estiver vermelho e não vier carro
+        atravessar;
+
+Notamos nesse caso que o algoritmo iria compilar/executar, porém não estaria certo.
+A tua rotina de algoritmo não define como certo ou errado o que define é o fim dela, se o fim não foi esperado então o algoritmo não é o correto.
+
+
+    -Algoritmos computacionais-
+
+O que o computador faz pela gente?
+    Entrada       - Dados que serão entregues à cpu (clicar com mouse, digitar, passar instrução);
+    Processamento - Processar a entrada do usuário;
+    Saída         - Retorno do resultado da entrada;
+
+
+Como por exemplo, um algoritmo em que Marcos precisa abrir o programa da empresa, o notepad um navegador e a calculadora automaticamente, pois ele faz isso todo dia manualmente.
+    Criar um arquivo .bat
+        C:\Programas\Empresa.exe
+        notepad
+        start www.google.com
+        calc
+O computador iria entender esse algoritmo automaticamente após ser clicado no arquivo .bat e executar.
+Para algo mais complexo, será necessário uma linguagem de programação.
+
+
+

@@ -1,0 +1,15 @@
+Variáveis que são textos tendem a ser String, ou seja ao invés de var passe String:
+
+    var textPeso = stdin.readLineSync(); => String textPeso = stdin.readLineSync();
+
+Quando for inteiro int:
+     var peso = int.parse(textPeso!); =>  int peso = int.parse(textPeso!);
+
+Quando double será double:
+
+     var altura = double.parse(textAltura!); =>   double altura = double.parse(textAltura!);
+
+ double num1 = 1.5;
+  int num2 = 2;
+  String text = "Olá";
+  bool isTrue = true;

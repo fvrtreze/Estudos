@@ -1,0 +1,36 @@
+Map, quando trabalhamos com lista, conseguimos consiliar varios ítens dentro de uma unica variavel
+   List<String> nomes = ["Pedro", "João"];
+capturando dados em lista, passa a variavel e a posição na lista.
+  nomes[1]; 
+
+  map também é uma forma de array, mas tem uma captura de dados diferentes, que ao invés de recuperar pelo indice,
+  recupera pelo string
+   passa uma key primeiro e depois o valor
+   na tipagem nós temos observado que existem duas tipagens o da key e o do valor.
+   Nesse caso passamos duas tipagens dentro do <>, que o primeiro é String
+  E o outro é dynamic, uma tipagem que permite qualquer valor dentro dela.
+
+ var<O que recebe> nome do mapa
+
+ Para realizar a troca é facil também, apenas dizer a kley q deseja e o valor.
+ Mesma coisa como se fosse atribuir à uma variavel porem passando a key em [];
+
+  maps["nome"] = "Pedro Favoretti";
+
+  print(maps["nome"]);
+  Para acessar aqui, acessamos pela key do map que criamos, pode ser qlqr key.
+
+
+main(List<String> args) {
+
+  Map<String, dynamic> maps = {
+    "nome": "Pedro",
+    "idade": 24,
+    "cidade": "Sarto",
+  };
+
+
+}
+
+
+

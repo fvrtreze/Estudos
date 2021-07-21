@@ -1,0 +1,11 @@
+Após entender o algoritmo, devemos saber que o computador tem uma linguagem própria pra entender esses algoritmos.
+Aqui nós usaremos Dart.
+
+Onde usar o Dart?
+    Desenvolver apk crossplatform como o Flutter
+    Criar API REST com Aqueduct
+    Scripts em gerais
+
+ -- Exemplo de um Script em DART na pasta de Exercicios.
+
+    

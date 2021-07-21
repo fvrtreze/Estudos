@@ -1,0 +1,5 @@
+dir   = qual pasta temos no nosso nó (As que são pastas terão um DIR, as que não forem serão sem);
+cls   = limpa prompt;
+cd    = navega entre pastas(Navegar com nomes com espaços utilizar cd"Area de trabalho");
+cd .. = volta pasta;
+
